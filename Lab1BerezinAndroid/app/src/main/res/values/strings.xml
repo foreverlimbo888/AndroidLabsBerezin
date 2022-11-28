@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1BerezinAndroid</string>
+    <string name="Telephone">Ваш телефон</string>
+    <string name="Name">Ваше имя</string>
+    <string name="Ready">Готово</string>
+    <string name="Info">Введите своё имя и номер телефона</string>
+</resources>
