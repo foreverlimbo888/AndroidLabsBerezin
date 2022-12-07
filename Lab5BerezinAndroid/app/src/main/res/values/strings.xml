@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5BerezinAndroid</string>
+    <string name="count">Счётчик:</string>
+    <string name="textCheckBox">Другие действия на кнопки</string>
+    <string name="buttonOne">Нажмите [+1]</string>
+    <string name="buttonTwo">Зажмите [+2]</string>
+</resources>
