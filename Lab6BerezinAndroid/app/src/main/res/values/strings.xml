@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Six</string>
+    <string name="button_name">go to next</string>
+    <string name="textView_hint">enter name, age, have a drivers license?</string>
+    <string name="buttonGet_name">get data from previous</string>
+    <string name="thirdActivity_text">click get button and rotate phone</string>
+</resources>
